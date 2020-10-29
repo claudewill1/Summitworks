@@ -1,0 +1,12 @@
+C:\Users\claude\source\repos\Console Game\Console Game\bin\Release\netcoreapp2.2\ConsoleGame.deps.json
+C:\Users\claude\source\repos\Console Game\Console Game\bin\Release\netcoreapp2.2\ConsoleGame.runtimeconfig.json
+C:\Users\claude\source\repos\Console Game\Console Game\bin\Release\netcoreapp2.2\ConsoleGame.runtimeconfig.dev.json
+C:\Users\claude\source\repos\Console Game\Console Game\bin\Release\netcoreapp2.2\ConsoleGame.dll
+C:\Users\claude\source\repos\Console Game\Console Game\bin\Release\netcoreapp2.2\ConsoleGame.pdb
+C:\Users\claude\source\repos\Console Game\Console Game\obj\Release\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\claude\source\repos\Console Game\Console Game\obj\Release\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\Console Game\Console Game\obj\Release\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+C:\Users\claude\source\repos\Console Game\Console Game\obj\Release\netcoreapp2.2\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\claude\source\repos\Console Game\Console Game\obj\Release\netcoreapp2.2\ConsoleGame.dll
+C:\Users\claude\source\repos\Console Game\Console Game\obj\Release\netcoreapp2.2\ConsoleGame.pdb
+C:\Users\claude\source\repos\Console Game\Console Game\obj\Release\netcoreapp2.2\ConsoleGame.genruntimeconfig.cache

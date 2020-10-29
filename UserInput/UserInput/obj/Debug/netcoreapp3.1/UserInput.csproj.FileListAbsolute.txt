@@ -1,0 +1,12 @@
+C:\Users\claude\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+C:\Users\claude\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+C:\Users\claude\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+C:\Users\claude\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+C:\Users\claude\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\claude\source\repos\UserInput\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\claude\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+C:\Users\claude\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\claude\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+C:\Users\claude\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+C:\Users\claude\source\repos\UserInput\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache

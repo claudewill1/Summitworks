@@ -1,0 +1,13 @@
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.exe
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.deps.json
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.runtimeconfig.json
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.runtimeconfig.dev.json
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.dll
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\bin\Debug\netcoreapp3.1\ChooseYourOwnAdventure.pdb
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.AssemblyInfo.cs
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.csproj.CoreCompileInputs.cache
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.dll
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.pdb
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.genruntimeconfig.cache
+C:\Users\claude\source\repos\ChooseYourOwnAdventure\ChooseYourOwnAdventure\obj\Debug\netcoreapp3.1\ChooseYourOwnAdventure.csprojAssemblyReference.cache

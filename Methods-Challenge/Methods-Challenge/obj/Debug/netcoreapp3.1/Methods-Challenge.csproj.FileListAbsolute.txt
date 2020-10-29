@@ -1,0 +1,13 @@
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\bin\Debug\netcoreapp3.1\Methods-Challenge.exe
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\bin\Debug\netcoreapp3.1\Methods-Challenge.deps.json
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\bin\Debug\netcoreapp3.1\Methods-Challenge.runtimeconfig.json
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\bin\Debug\netcoreapp3.1\Methods-Challenge.runtimeconfig.dev.json
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\bin\Debug\netcoreapp3.1\Methods-Challenge.dll
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\bin\Debug\netcoreapp3.1\Methods-Challenge.pdb
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\obj\Debug\netcoreapp3.1\Methods-Challenge.csprojAssemblyReference.cache
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\obj\Debug\netcoreapp3.1\Methods-Challenge.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\obj\Debug\netcoreapp3.1\Methods-Challenge.AssemblyInfo.cs
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\obj\Debug\netcoreapp3.1\Methods-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\obj\Debug\netcoreapp3.1\Methods-Challenge.dll
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\obj\Debug\netcoreapp3.1\Methods-Challenge.pdb
+C:\Users\claude\source\repos\Methods-Challenge\Methods-Challenge\obj\Debug\netcoreapp3.1\Methods-Challenge.genruntimeconfig.cache

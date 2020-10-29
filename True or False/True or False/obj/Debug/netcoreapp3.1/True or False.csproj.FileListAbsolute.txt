@@ -1,0 +1,4 @@
+C:\Users\claude\source\repos\True or False\True or False\obj\Debug\netcoreapp3.1\True or False.csprojAssemblyReference.cache
+C:\Users\claude\source\repos\True or False\True or False\obj\Debug\netcoreapp3.1\True or False.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\True or False\True or False\obj\Debug\netcoreapp3.1\True or False.AssemblyInfo.cs
+C:\Users\claude\source\repos\True or False\True or False\obj\Debug\netcoreapp3.1\True or False.csproj.CoreCompileInputs.cache

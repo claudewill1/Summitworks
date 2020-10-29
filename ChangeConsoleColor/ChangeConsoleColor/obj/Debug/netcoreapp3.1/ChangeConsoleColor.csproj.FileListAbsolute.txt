@@ -1,0 +1,12 @@
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\obj\Debug\netcoreapp3.1\ChangeConsoleColor.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\obj\Debug\netcoreapp3.1\ChangeConsoleColor.AssemblyInfo.cs
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\obj\Debug\netcoreapp3.1\ChangeConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\bin\Debug\netcoreapp3.1\ChangeConsoleColor.exe
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\bin\Debug\netcoreapp3.1\ChangeConsoleColor.deps.json
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\bin\Debug\netcoreapp3.1\ChangeConsoleColor.runtimeconfig.json
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\bin\Debug\netcoreapp3.1\ChangeConsoleColor.runtimeconfig.dev.json
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\bin\Debug\netcoreapp3.1\ChangeConsoleColor.dll
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\bin\Debug\netcoreapp3.1\ChangeConsoleColor.pdb
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\obj\Debug\netcoreapp3.1\ChangeConsoleColor.dll
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\obj\Debug\netcoreapp3.1\ChangeConsoleColor.pdb
+C:\Users\claude\source\repos\ChangeConsoleColor\ChangeConsoleColor\obj\Debug\netcoreapp3.1\ChangeConsoleColor.genruntimeconfig.cache
