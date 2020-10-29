@@ -1,0 +1,13 @@
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\netcoreapp3.1\Compound Interest Calculator.exe
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\netcoreapp3.1\Compound Interest Calculator.deps.json
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\netcoreapp3.1\Compound Interest Calculator.runtimeconfig.json
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\netcoreapp3.1\Compound Interest Calculator.runtimeconfig.dev.json
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\netcoreapp3.1\Compound Interest Calculator.dll
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\bin\Debug\netcoreapp3.1\Compound Interest Calculator.pdb
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\netcoreapp3.1\Compound Interest Calculator.csprojAssemblyReference.cache
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\netcoreapp3.1\Compound Interest Calculator.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\netcoreapp3.1\Compound Interest Calculator.AssemblyInfo.cs
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\netcoreapp3.1\Compound Interest Calculator.csproj.CoreCompileInputs.cache
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\netcoreapp3.1\Compound Interest Calculator.dll
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\netcoreapp3.1\Compound Interest Calculator.pdb
+C:\Users\claude\source\repos\Compound Interest Calculator\Compound Interest Calculator\obj\Debug\netcoreapp3.1\Compound Interest Calculator.genruntimeconfig.cache

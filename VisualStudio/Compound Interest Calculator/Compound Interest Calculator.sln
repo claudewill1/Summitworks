@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compound Interest Calculator", "Compound Interest Calculator\Compound Interest Calculator.csproj", "{AC733B6C-DC96-415C-8808-A02A912B1F0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC733B6C-DC96-415C-8808-A02A912B1F0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC733B6C-DC96-415C-8808-A02A912B1F0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC733B6C-DC96-415C-8808-A02A912B1F0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC733B6C-DC96-415C-8808-A02A912B1F0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {011014FD-F641-4DB8-A942-D1425F567E0F}
+	EndGlobalSection
+EndGlobal

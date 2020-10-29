@@ -1,0 +1,13 @@
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\bin\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.exe
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\bin\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.deps.json
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\bin\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.runtimeconfig.json
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\bin\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.runtimeconfig.dev.json
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\bin\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.dll
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\bin\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.pdb
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\obj\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.csprojAssemblyReference.cache
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\obj\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.AssemblyInfoInputs.cache
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\obj\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.AssemblyInfo.cs
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\obj\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.csproj.CoreCompileInputs.cache
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\obj\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.dll
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\obj\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.pdb
+C:\Users\claude\source\repos\MethodWithReturnValueAndParams\MethodWithReturnValueAndParams\obj\Debug\netcoreapp3.1\MethodWithReturnValueAndParams.genruntimeconfig.cache
